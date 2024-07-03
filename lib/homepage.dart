@@ -1,7 +1,8 @@
+import 'package:aap_shop/mobile/mobile_body.dart';
 import 'package:flutter/material.dart';
 
-import '../responsive/desktop_body.dart';
-import '../responsive/mobile_body.dart';
+import '../desktop/desktop_body.dart';
+//import '../mobile/mobile_body.dart';
 import '../responsive/responsive_layout.dart';
 
 class HomePage extends StatefulWidget {
