@@ -9,14 +9,12 @@ Austin & Phillips is a Flutter application designed to make buying and selling o
 - **Feature 1**: Describe feature 1 and its functionality.
 - **Feature 2**: Describe feature 2 and its functionality.
 - **Feature 3**: Describe feature 3 and its functionality.
-- ...
 
 ## Screenshots
 
 ![Screenshot 1](https://github.com/Chris-JnrN/aap_shop/blob/main/assets/images/1.webp)
 ![Screenshot 2](https://github.com/Chris-JnrN/aap_shop/blob/main/assets/images/2.webp)
 ![Screenshot 3](https://github.com/Chris-JnrN/aap_shop/blob/main/assets/images/3.webp)
-... (add more screenshots if needed)
 
 ## Getting Started
 
