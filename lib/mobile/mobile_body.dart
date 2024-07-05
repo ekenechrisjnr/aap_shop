@@ -46,10 +46,12 @@ class _MobileBodyState extends State<MobileBody> {
             const SizedBox(
               width: 20.0,
             ),
-            Icon(
-              Icons.notification_add,
-              size: 30.0,
-              color: lightBlackColor,
+            GestureDetector(
+              child: Icon(
+                Icons.notification_add,
+                size: 30.0,
+                color: lightBlackColor,
+              ),
             ),
           ],
         ),
