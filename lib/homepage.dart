@@ -1,4 +1,5 @@
 import 'package:aap_shop/mobile/mobile_body.dart';
+import 'package:aap_shop/mobile/widget/bottom_navigation.dart';
 import 'package:flutter/material.dart';
 
 import '../desktop/desktop_body.dart';
@@ -17,7 +18,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return const Scaffold(
       body: ResponsiveLayout(
-        mobileBody: MyMobileBody(),
+        mobileBody: MobileBody(),
         desktopBody: MyDesktopBody(),
       ),
     );

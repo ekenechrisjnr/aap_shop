@@ -13,6 +13,7 @@ const String appName = "A U S T I N  &  P H I L L I P S";
 
 const Color whiteColor = Colors.white;
 Color lightBlackColor = Colors.black.withOpacity(.4);
+const Color myRed = Color.fromARGB(255, 214, 29, 29);
 
 // NAIRA SYMBOL
 
