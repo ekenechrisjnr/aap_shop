@@ -21,7 +21,7 @@ NumberFormat currency(context) {
   // ignore: unused_local_variable
   Locale locale = Localizations.localeOf(context);
   var format = NumberFormat.simpleCurrency(
-    locale: Platform.localeName,
+    locale: locale.toString(),
     name: 'USD',
   );
   return format;
